@@ -1,0 +1,7 @@
+{
+  "name": "Pressão & Ritmo",
+  "description": "Controle pessoal de pressão arterial, frequência cardíaca, histórico, gráficos, perfil e backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
